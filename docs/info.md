@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Here it detects the pattern 111 if you provide a sequence like 111010101100
 
 ## How to test
 
-Explain how to use your project
+Here ,we are using a clock of 1 Hz , you can also have the clock manually . We are giving the input by x 
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Only 1 led used , which will light up as pattern is detected and gets off as its interrupted.
